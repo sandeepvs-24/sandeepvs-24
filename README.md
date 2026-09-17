@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sandeepvs-24/sandeepvs-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sandeep
 
-Here are some ideas to get you started:
+### B.Tech IT Student | Software Development | AI | Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+by+building.;Exploring+AI+%26+software+development.;Turning+ideas+into+projects.;Always+learning+something+new." alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a B.Tech Information Technology student at **Velammal Engineering College, Chennai**.
+
+I enjoy building things, learning how technology works, and experimenting with new tools. I'm currently exploring **software development, AI, full-stack development, and mobile app development**.
+
+Outside of coding, I enjoy **photography**, especially nature and landscape photography.
+
+---
+
+## What I'm Learning
+
+```text
+Programming       → C · C++ · Python · Java
+Web Development   → HTML · CSS · JavaScript
+App Development   → Flutter · Dart
+Databases         → SQL · MongoDB
+AI / ML           → Machine Learning · AI Tools
+Other             → Git · GitHub · DSA
